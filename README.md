@@ -1,0 +1,1 @@
+Este é um projeto desenvolvido por mim e minha equipe do IFMG-Ouro Branco de uma batalha de cartas. A aplicação consiste na leitura de uma planilha de cartas em java e, assim, o jogador duela contra seu adversário, de modo que ele tenha autonomia de posicionar, atacar e defender suas cartas no tabuleiro.
